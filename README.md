@@ -8,4 +8,4 @@ Html,Node.js
 
 ## Steps
 creating github repoistory for the project as shown in the image below
-[<img src="create_repo.png">](https://github.com/user-attachments/assets/b713b6e6-4f12-4d7e-861e-d512e931c9c2)
+<img width="1440" alt="creating_repo" src="https://github.com/user-attachments/assets/0aa40cc0-8f5c-47e6-84e3-6547d7e780f0">
